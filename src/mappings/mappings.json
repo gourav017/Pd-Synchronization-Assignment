@@ -1,0 +1,14 @@
+[
+  {
+    "pipedriveKey": "name",
+    "inputKey": "fullName"
+  },
+  {
+    "pipedriveKey": "email",
+    "inputKey": "emailAdress"
+  },
+  {
+    "pipedriveKey": "phone",
+    "inputKey": "phoneNumber.home"
+  }
+]
